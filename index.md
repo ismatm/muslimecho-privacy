@@ -34,7 +34,7 @@ reveal your TV's IP address to the service that answers them.
 
 | Feature | Service | What is requested |
 |---|---|---|
-| "Detect my location" (setup) | get.geojs.io, fallback ipapi.co | Your approximate city from the IP address. Only when you press the button. |
+| "Detect my location" (setup and Settings → Location) | get.geojs.io, fallback ipapi.co | Your approximate city from the IP address. Only when you press the button. |
 | City search | geocoding-api.open-meteo.com, photon.komoot.io | The city name you type |
 | Ayah of the Day, Qur'an text and verse timing | api.quran.com | A random verse / the surah you open |
 | Qur'an recitation | download.quranicaudio.com, mp3quran.net | The audio of the surah you play |
